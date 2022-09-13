@@ -1,0 +1,12 @@
+div
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+app-todo-list
+{
+    width: 100%;
+}

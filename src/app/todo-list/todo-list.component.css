@@ -1,0 +1,28 @@
+.application
+{
+    display: flex;
+    justify-content: center;
+    width: 100%
+}
+
+.application > div
+{
+    width: 50%;
+}
+
+input[type="text"]
+{
+    border: none;
+    border-radius: 0px;
+    border-bottom: 1px solid gray;
+}
+
+.btn
+{
+    margin: 7px;
+}
+
+.actionItem
+{
+    cursor: pointer;
+}
